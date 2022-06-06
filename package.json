@@ -1,0 +1,6 @@
+{
+  "type": "module",
+  "dependencies": {
+    "requirejs": "^2.3.6"
+  }
+}
