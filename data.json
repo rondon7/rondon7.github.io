@@ -1,0 +1,31 @@
+{
+  "Hotels_Data": {
+    "Name": "Hotel Aryavarta",
+    "Address": "Mall Road, Nainital - 234005",
+    "Contact Nos.": {
+      "Primary Contact": "0657-2345678",
+      "Other Contact": "9897865437"
+    },
+    "Ratings": 4.2,
+    "Hotel Amenities": [
+      ""
+    ],
+    "Room Types": {
+        "Super Deluxe Room for 2": 8,
+        "Shared Room for 3": 6,
+        "Shared Room for 4": 5,
+        "Shared Room for 6": 4
+    },
+    "Room Rates": {
+        "Super Deluxe Room for 2": 5000,
+        "Shared Room for 3": 6000,
+        "Shared Room for 4": 8000,
+        "Shared Room for 6": 9000
+    },
+    "Nearby Places": {
+        "Naini Lake": 0.5,
+        "Underground Caves": 2.5,
+        "Naina Devi Temple": 1.0
+    }
+  }
+}
