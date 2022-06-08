@@ -31,182 +31,34 @@
   },
   {
     "Name": "Hotel Shree Ram",
-    "Address": "Mall Road, Nainital - 234005",
+    "Address": "Shimla Mall Road, Shimla - 234010",
     "Primary Image": "https://cdn.britannica.com/96/115096-050-5AFDAF5D/Bellagio-Hotel-Casino-Las-Vegas.jpg",
     "Contact Nos.": {
-      "Primary Contact": "0657-2345678",
-      "Other Contact": "9897865437"
+      "Primary Contact": "0657-2345768",
+      "Other Contact": "9897866037"
     },
-    "Ratings": 4.2,
+    "Ratings": 4.9,
     "Hotel Amenities": [
       ""
     ],
     "Room Types": {
+      "Deluxe Suite": 2,
       "Super Deluxe Room for 2": 8,
       "Shared Room for 3": 6,
       "Shared Room for 4": 5,
       "Shared Room for 6": 4
     },
     "Room Rates": {
+      "Deluxe Suite": 8000,
       "Super Deluxe Room for 2": 5000,
       "Shared Room for 3": 6000,
       "Shared Room for 4": 8000,
       "Shared Room for 6": 9000
     },
     "Nearby Places": {
-      "Naini Lake": 0.5,
-      "Underground Caves": 2.5,
-      "Naina Devi Temple": 1.0
-    }
-  },
-  {
-    "Name": "Hotel Krishna",
-    "Address": "Mall Road, Nainital - 234005",
-    "Primary Image": "https://m.economictimes.com/thumb/msid-73023854,width-1200,height-900,resizemode-4,imgsize-235513/hotel-agencies.jpg",
-    "Contact Nos.": {
-      "Primary Contact": "0657-2345678",
-      "Other Contact": "9897865437"
-    },
-    "Ratings": 4.2,
-    "Hotel Amenities": [
-      ""
-    ],
-    "Room Types": {
-      "Super Deluxe Room for 2": 8,
-      "Shared Room for 3": 6,
-      "Shared Room for 4": 5,
-      "Shared Room for 6": 4
-    },
-    "Room Rates": {
-      "Super Deluxe Room for 2": 5000,
-      "Shared Room for 3": 6000,
-      "Shared Room for 4": 8000,
-      "Shared Room for 6": 9000
-    },
-    "Nearby Places": {
-      "Naini Lake": 0.5,
-      "Underground Caves": 2.5,
-      "Naina Devi Temple": 1.0
-    }
-  },
-  {
-    "Name": "Hotel Kailash",
-    "Address": "Mall Road, Nainital - 234005",
-    "Primary Image": "https://assets.hyatt.com/content/dam/hyatt/hyattdam/images/2022/04/12/1329/MUMGH-P0765-Inner-Courtyard-Hotel-Exterior-Evening.jpg/MUMGH-P0765-Inner-Courtyard-Hotel-Exterior-Evening.16x9.jpg",
-    "Contact Nos.": {
-      "Primary Contact": "0657-2345678",
-      "Other Contact": "9897865437"
-    },
-    "Ratings": 4.2,
-    "Hotel Amenities": [
-      ""
-    ],
-    "Room Types": {
-      "Super Deluxe Room for 2": 8,
-      "Shared Room for 3": 6,
-      "Shared Room for 4": 5,
-      "Shared Room for 6": 4
-    },
-    "Room Rates": {
-      "Super Deluxe Room for 2": 5000,
-      "Shared Room for 3": 6000,
-      "Shared Room for 4": 8000,
-      "Shared Room for 6": 9000
-    },
-    "Nearby Places": {
-      "Naini Lake": 0.5,
-      "Underground Caves": 2.5,
-      "Naina Devi Temple": 1.0
-    }
-  },
-  {
-    "Name": "Hotel Mansarovar",
-    "Address": "Mall Road, Nainital - 234005",
-    "Primary Image": "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/itemimages/96/95/96959_v6.jpeg",
-    "Contact Nos.": {
-      "Primary Contact": "0657-2345678",
-      "Other Contact": "9897865437"
-    },
-    "Ratings": 4.2,
-    "Hotel Amenities": [
-      ""
-    ],
-    "Room Types": {
-      "Super Deluxe Room for 2": 8,
-      "Shared Room for 3": 6,
-      "Shared Room for 4": 5,
-      "Shared Room for 6": 4
-    },
-    "Room Rates": {
-      "Super Deluxe Room for 2": 5000,
-      "Shared Room for 3": 6000,
-      "Shared Room for 4": 8000,
-      "Shared Room for 6": 9000
-    },
-    "Nearby Places": {
-      "Naini Lake": 0.5,
-      "Underground Caves": 2.5,
-      "Naina Devi Temple": 1.0
-    }
-  },
-  {
-    "Name": "Hotel Aryavarta",
-    "Address": "Mall Road, Nainital - 234005",
-    "Primary Image": "https://badianhotel.com/wp-content/uploads/2020/08/baglioni-hotel-london.jpg",
-    "Contact Nos.": {
-      "Primary Contact": "0657-2345678",
-      "Other Contact": "9897865437"
-    },
-    "Ratings": 4.2,
-    "Hotel Amenities": [
-      ""
-    ],
-    "Room Types": {
-      "Super Deluxe Room for 2": 8,
-      "Shared Room for 3": 6,
-      "Shared Room for 4": 5,
-      "Shared Room for 6": 4
-    },
-    "Room Rates": {
-      "Super Deluxe Room for 2": 5000,
-      "Shared Room for 3": 6000,
-      "Shared Room for 4": 8000,
-      "Shared Room for 6": 9000
-    },
-    "Nearby Places": {
-      "Naini Lake": 0.5,
-      "Underground Caves": 2.5,
-      "Naina Devi Temple": 1.0
-    }
-  },
-  {
-    "Name": "Hotel Shree Ram",
-    "Address": "Mall Road, Nainital - 234005",
-    "Primary Image": "https://cdn.britannica.com/96/115096-050-5AFDAF5D/Bellagio-Hotel-Casino-Las-Vegas.jpg",
-    "Contact Nos.": {
-      "Primary Contact": "0657-2345678",
-      "Other Contact": "9897865437"
-    },
-    "Ratings": 4.2,
-    "Hotel Amenities": [
-      ""
-    ],
-    "Room Types": {
-      "Super Deluxe Room for 2": 8,
-      "Shared Room for 3": 6,
-      "Shared Room for 4": 5,
-      "Shared Room for 6": 4
-    },
-    "Room Rates": {
-      "Super Deluxe Room for 2": 5000,
-      "Shared Room for 3": 6000,
-      "Shared Room for 4": 8000,
-      "Shared Room for 6": 9000
-    },
-    "Nearby Places": {
-      "Naini Lake": 0.5,
-      "Underground Caves": 2.5,
-      "Naina Devi Temple": 1.0
+      "Mall Road Church": 0.9,
+      "UGovernor's Palace": 8.0,
+      "Shree Hanuman Statue": 4.5
     }
   },
   {
