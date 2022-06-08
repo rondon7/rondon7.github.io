@@ -30,9 +30,99 @@
     }
   },
   {
-    "Name": "Hotel Aryavarta",
+    "Name": "Hotel Shree Ram",
     "Address": "Mall Road, Nainital - 234005",
-    "Primary Image": "https://badianhotel.com/wp-content/uploads/2020/08/baglioni-hotel-london.jpg",
+    "Primary Image": "https://cdn.britannica.com/96/115096-050-5AFDAF5D/Bellagio-Hotel-Casino-Las-Vegas.jpg",
+    "Contact Nos.": {
+      "Primary Contact": "0657-2345678",
+      "Other Contact": "9897865437"
+    },
+    "Ratings": 4.2,
+    "Hotel Amenities": [
+      ""
+    ],
+    "Room Types": {
+      "Super Deluxe Room for 2": 8,
+      "Shared Room for 3": 6,
+      "Shared Room for 4": 5,
+      "Shared Room for 6": 4
+    },
+    "Room Rates": {
+      "Super Deluxe Room for 2": 5000,
+      "Shared Room for 3": 6000,
+      "Shared Room for 4": 8000,
+      "Shared Room for 6": 9000
+    },
+    "Nearby Places": {
+      "Naini Lake": 0.5,
+      "Underground Caves": 2.5,
+      "Naina Devi Temple": 1.0
+    }
+  },
+  {
+    "Name": "Hotel Krishna",
+    "Address": "Mall Road, Nainital - 234005",
+    "Primary Image": "https://m.economictimes.com/thumb/msid-73023854,width-1200,height-900,resizemode-4,imgsize-235513/hotel-agencies.jpg",
+    "Contact Nos.": {
+      "Primary Contact": "0657-2345678",
+      "Other Contact": "9897865437"
+    },
+    "Ratings": 4.2,
+    "Hotel Amenities": [
+      ""
+    ],
+    "Room Types": {
+      "Super Deluxe Room for 2": 8,
+      "Shared Room for 3": 6,
+      "Shared Room for 4": 5,
+      "Shared Room for 6": 4
+    },
+    "Room Rates": {
+      "Super Deluxe Room for 2": 5000,
+      "Shared Room for 3": 6000,
+      "Shared Room for 4": 8000,
+      "Shared Room for 6": 9000
+    },
+    "Nearby Places": {
+      "Naini Lake": 0.5,
+      "Underground Caves": 2.5,
+      "Naina Devi Temple": 1.0
+    }
+  },
+  {
+    "Name": "Hotel Kailash",
+    "Address": "Mall Road, Nainital - 234005",
+    "Primary Image": "https://media-cdn.tripadvisor.com/media/photo-s/16/1a/ea/54/hotel-presidente-4s.jpg",
+    "Contact Nos.": {
+      "Primary Contact": "0657-2345678",
+      "Other Contact": "9897865437"
+    },
+    "Ratings": 4.2,
+    "Hotel Amenities": [
+      ""
+    ],
+    "Room Types": {
+      "Super Deluxe Room for 2": 8,
+      "Shared Room for 3": 6,
+      "Shared Room for 4": 5,
+      "Shared Room for 6": 4
+    },
+    "Room Rates": {
+      "Super Deluxe Room for 2": 5000,
+      "Shared Room for 3": 6000,
+      "Shared Room for 4": 8000,
+      "Shared Room for 6": 9000
+    },
+    "Nearby Places": {
+      "Naini Lake": 0.5,
+      "Underground Caves": 2.5,
+      "Naina Devi Temple": 1.0
+    }
+  },
+  {
+    "Name": "Hotel Mansarovar",
+    "Address": "Mall Road, Nainital - 234005",
+    "Primary Image": "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/itemimages/96/95/96959_v6.jpeg",
     "Contact Nos.": {
       "Primary Contact": "0657-2345678",
       "Other Contact": "9897865437"
