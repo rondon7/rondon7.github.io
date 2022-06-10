@@ -34,7 +34,7 @@
     "id": 2,
     "name": "Hotel Shree Ram",
     "address": "Shimla Mall Road, Shimla - 234010",
-    "primaryImage": "https://cdn.britannica.com/96/115096-050-5AFDAF5D/Bellagio-Hotel-Casino-Las-Vegas.jpg",
+    "image": "https://cdn.britannica.com/96/115096-050-5AFDAF5D/Bellagio-Hotel-Casino-Las-Vegas.jpg",
     "contactNo": {
       "primaryContact": "0657-2345768",
       "otherContact": "9897866037"
@@ -67,7 +67,7 @@
     "id": 3,
     "name": "Hotel Krishna",
     "address": "24, Karol Bagh, Delhi - 123013",
-    "primaryImage": "https://m.economictimes.com/thumb/msid-73023854,width-1200,height-900,resizemode-4,imgsize-235513/hotel-agencies.jpg",
+    "image": "https://m.economictimes.com/thumb/msid-73023854,width-1200,height-900,resizemode-4,imgsize-235513/hotel-agencies.jpg",
     "contactNo": {
       "primaryContact": "0657-2675898",
       "otherContact": "6207865437"
@@ -98,7 +98,7 @@
     "id": 4,
     "name": "Hotel Kailash",
     "address": "Main Road, Gangtok - 321012",
-    "primaryImage": "https://assets.hyatt.com/content/dam/hyatt/hyattdam/images/2022/04/12/1329/MUMGH-P0765-Inner-Courtyard-Hotel-Exterior-Evening.jpg/MUMGH-P0765-Inner-Courtyard-Hotel-Exterior-Evening.16x9.jpg",
+    "image": "https://assets.hyatt.com/content/dam/hyatt/hyattdam/images/2022/04/12/1329/MUMGH-P0765-Inner-Courtyard-Hotel-Exterior-Evening.jpg/MUMGH-P0765-Inner-Courtyard-Hotel-Exterior-Evening.16x9.jpg",
     "contactNo": {
       "primaryContact": "0657-2012378",
       "otherContact": "8297865437"
@@ -129,7 +129,7 @@
     "id": 5,
     "name": "Hotel Mansarovar",
     "address": "Ooty Mall Road, Udagamandalam - 234005",
-    "primaryImage": "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/itemimages/96/95/96959_v6.jpeg",
+    "image": "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/itemimages/96/95/96959_v6.jpeg",
     "contactNo": {
       "primaryContact": "0237-6045678",
       "otherContact": "7890865437"
