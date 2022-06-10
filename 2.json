@@ -1,0 +1,35 @@
+[
+  {
+    "id": 2,
+    "name": "Hotel Shree Ram",
+    "address": "Shimla Mall Road, Shimla - 234010",
+    "primaryImage": "https://cdn.britannica.com/96/115096-050-5AFDAF5D/Bellagio-Hotel-Casino-Las-Vegas.jpg",
+    "contactNo": {
+      "primaryContact": "0657-2345768",
+      "otherContact": "9897866037"
+    },
+    "ratings": 4.9,
+    "hotelAmenities": [
+      ""
+    ],
+    "roomTypes": {
+      "Deluxe Suite": 2,
+      "Super Deluxe Room for 2": 8,
+      "Shared Room for 3": 6,
+      "Shared Room for 4": 5,
+      "Shared Room for 6": 4
+    },
+    "roomRates": {
+      "Deluxe Suite": 8500,
+      "Super Deluxe Room for 2": 6000,
+      "Shared Room for 3": 7000,
+      "Shared Room for 4": 8000,
+      "Shared Room for 6": 9000
+    },
+    "nearbyPlaces": {
+      "Mall Road Church": 0.9,
+      "UGovernor's Palace": 8.0,
+      "Shree Hanuman Statue": 4.5
+    }
+  }
+]

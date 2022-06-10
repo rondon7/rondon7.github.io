@@ -1,0 +1,33 @@
+[
+  {
+    "id": 5,
+    "name": "Hotel Mansarovar",
+    "address": "Ooty Mall Road, Udagamandalam - 234005",
+    "primaryImage": "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/itemimages/96/95/96959_v6.jpeg",
+    "contactNo": {
+      "primaryContact": "0237-6045678",
+      "otherContact": "7890865437"
+    },
+    "ratings": 4.9,
+    "hotelAmenities": [
+      ""
+    ],
+    "roomTypes": {
+      "Super Deluxe Suite": 6,
+      "Room for 2": 2,
+      "Room for 4": 5,
+      "Room for 6": 4
+    },
+    "roomRates": {
+      "Super Deluxe Suite": 6000,
+      "Room for 2": 2409,
+      "Room for 4": 3400,
+      "Room for 6": 4345
+    },
+    "nearbyPlaces": {
+      "Race Course": 6.5,
+      "Ooty lake": 5.9,
+      "Doda Betta": 29.4
+    }
+  }
+]

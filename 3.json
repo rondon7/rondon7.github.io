@@ -1,0 +1,33 @@
+[
+  {
+    "id": 3,
+    "name": "Hotel Krishna",
+    "address": "24, Karol Bagh, Delhi - 123013",
+    "primaryImage": "https://m.economictimes.com/thumb/msid-73023854,width-1200,height-900,resizemode-4,imgsize-235513/hotel-agencies.jpg",
+    "contactNo": {
+      "primaryContact": "0657-2675898",
+      "otherContact": "6207865437"
+    },
+    "ratings": 3.9,
+    "hotelAmenities": [
+      ""
+    ],
+    "roomTypes": {
+      "Room for 2": 10,
+      "Shared Room for 3": 6,
+      "Shared Room for 4": 5,
+      "Shared Room for 6": 4
+    },
+    "roomRates": {
+      "Shared Room for 3": 3000,
+      "Shared Room for 4": 4000,
+      "Room for 2": 2000,
+      "Shared Room for 6": 5000
+    },
+    "nearbyPlaces": {
+      "Gandhi Memorial": 9.5,
+      "India Gate": 8.5,
+      "Lotus Temple": 12.3
+    }
+  }
+]

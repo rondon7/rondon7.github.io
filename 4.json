@@ -1,0 +1,33 @@
+[
+  {
+    "id": 4,
+    "name": "Hotel Kailash",
+    "address": "Main Road, Gangtok - 321012",
+    "primaryImage": "https://assets.hyatt.com/content/dam/hyatt/hyattdam/images/2022/04/12/1329/MUMGH-P0765-Inner-Courtyard-Hotel-Exterior-Evening.jpg/MUMGH-P0765-Inner-Courtyard-Hotel-Exterior-Evening.16x9.jpg",
+    "contactNo": {
+      "primaryContact": "0657-2012378",
+      "otherContact": "8297865437"
+    },
+    "ratings": 2.1,
+    "hotelAmenities": [
+      ""
+    ],
+    "roomTypes": {
+      "Room for 2": 8,
+      "Room for 3": 2,
+      "Room for 4": 3,
+      "Room for 6": 6
+    },
+    "roomRates": {
+      "Room for 2": 1890,
+      "Room for 3": 2659,
+      "Room for 4": 4560,
+      "Room for 6": 6789
+    },
+    "nearbyPlaces": {
+      "Nathu-La Pass": 4.5,
+      "India-Nepal Border": 30.5,
+      "Mt. Kanchenjunga": 19.0
+    }
+  }
+]
