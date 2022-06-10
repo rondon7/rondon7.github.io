@@ -12,17 +12,17 @@
     "hotelAmenities": [
       ""
     ],
-    "roomTypes": {
-      "Super Deluxe Suite": 6,
+    "roomIdsMapping": {
+      "Super Deluxe Suite": 1,
       "Room for 2": 2,
-      "Room for 4": 5,
+      "Room for 4": 3,
       "Room for 6": 4
     },
     "roomRates": {
-      "Super Deluxe Suite": 6000,
-      "Room for 2": 2409,
-      "Room for 4": 3400,
-      "Room for 6": 4345
+      "1": 6000,
+      "2": 2409,
+      "3": 3400,
+      "4": 4345
     },
     "nearbyPlaces": {
       "Race Course": 6.5,

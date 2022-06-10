@@ -12,19 +12,19 @@
     "hotelAmenities": [
       ""
     ],
-    "roomTypes": {
-      "Deluxe Suite": 2,
-      "Super Deluxe Room for 2": 8,
-      "Shared Room for 3": 6,
-      "Shared Room for 4": 5,
-      "Shared Room for 6": 4
+    "roomIdsMapping": {
+      "Deluxe Suite": 5,
+      "Super Deluxe Room for 2": 6,
+      "Shared Room for 3": 7,
+      "Shared Room for 4": 8,
+      "Shared Room for 6": 9
     },
     "roomRates": {
-      "Deluxe Suite": 8500,
-      "Super Deluxe Room for 2": 6000,
-      "Shared Room for 3": 7000,
-      "Shared Room for 4": 8000,
-      "Shared Room for 6": 9000
+      "5": 8500,
+      "6": 6000,
+      "7": 7000,
+      "8": 8000,
+      "9": 9000
     },
     "nearbyPlaces": {
       "Mall Road Church": 0.9,

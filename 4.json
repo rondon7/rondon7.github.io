@@ -12,17 +12,17 @@
     "hotelAmenities": [
       ""
     ],
-    "roomTypes": {
-      "Room for 2": 8,
+    "roomIdsMapping": {
+      "Room for 2": 1,
       "Room for 3": 2,
       "Room for 4": 3,
-      "Room for 6": 6
+      "Room for 6": 4
     },
     "roomRates": {
-      "Room for 2": 1890,
-      "Room for 3": 2659,
-      "Room for 4": 4560,
-      "Room for 6": 6789
+      "1": 1890,
+      "2": 2659,
+      "3": 4560,
+      "4": 6789
     },
     "nearbyPlaces": {
       "Nathu-La Pass": 4.5,

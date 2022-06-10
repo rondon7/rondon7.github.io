@@ -1,31 +1,33 @@
-[{
-  "id": 1,
-  "name": "Hotel Aryavarta",
-  "address": "Mall Road, Nainital - 234005",
-  "image": "https://badianhotel.com/wp-content/uploads/2020/08/baglioni-hotel-london.jpg",
-  "contactNo": {
-    "primaryContact": "0657-2345678",
-    "otherContact": "9897865437"
-  },
-  "ratings": 4.2,
-  "hotelAmenities": [
-    ""
-  ],
-  "roomTypes": {
-    "Super Deluxe Room for 2": 8,
-    "Shared Room for 3": 6,
-    "Shared Room for 4": 5,
-    "Shared Room for 6": 4
-  },
-  "roomRates": {
-    "Super Deluxe Room for 2": 5000,
-    "Shared Room for 3": 6000,
-    "Shared Room for 4": 8000,
-    "Shared Room for 6": 9000
-  },
-  "nearbyPlaces": {
-    "Naini Lake": 0.5,
-    "Underground Caves": 2.5,
-    "Naina Devi Temple": 1.0
+[
+  {
+    "id": 1,
+    "name": "Hotel Aryavarta",
+    "address": "Mall Road, Nainital - 234005",
+    "image": "https://badianhotel.com/wp-content/uploads/2020/08/baglioni-hotel-london.jpg",
+    "contactNo": {
+      "primaryContact": "0657-2345678",
+      "otherContact": "9897865437"
+    },
+    "ratings": 4.2,
+    "hotelAmenities": [
+      ""
+    ],
+    "roomIdsMapping" : {
+      "Super Deluxe Room for 2": 1,
+      "Shared Room for 3": 2,
+      "Shared Room for 4": 3,
+      "Shared Room for 6": 4
+    },
+    "roomRates": {
+      "1": 5000,
+      "2": 6000,
+      "3": 8000,
+      "4": 9000
+    },
+    "nearbyPlaces": {
+      "Naini Lake": 0.5,
+      "Underground Caves": 2.5,
+      "Naina Devi Temple": 1.0
+    }
   }
-}]
+]

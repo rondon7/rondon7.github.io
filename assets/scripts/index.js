@@ -67,7 +67,7 @@ class getHotelsList {
 
             const hotelPrimaryImage = document.createElement("img");
             hotelPrimaryImage.classList.add('hotel-primary-pic');
-            hotelPrimaryImage.src = hotelData['Primary Image'];
+            hotelPrimaryImage.src = hotelData.image;
 
             image.appendChild(hotelPrimaryImage);
 
@@ -81,13 +81,13 @@ class getHotelsList {
 
             const title = document.createElement('h2');
             title.classList.add('hotel-details-item', 'hotel-title');
-            title.innerText = hotelData['Name'];
+            title.innerText = hotelData.name;
 
             hotelDetails.appendChild(title);
 
             const address = document.createElement('h4');
             address.classList.add('hotel-details-item', 'hotel-address');
-            address.innerText = hotelData['Address'];
+            address.innerText = hotelData.address;
 
             hotelDetails.appendChild(address);
 
@@ -101,7 +101,7 @@ class getHotelsList {
             minText.style.textAlign = 'center';
             minText.innerText = "Rooms starting from";
 
-            const values = Object.values(hotelData['Room Rates']);
+            const values = Object.values(hotelData.roomRates);
             const minHotelPrice = document.createElement('h3');
             minHotelPrice.style.textAlign = 'center';
             minHotelPrice.innerText = "Rs. " + Math.min(...values).toString();
