@@ -34,7 +34,7 @@ class getHotelsList {
         heading.innerText = 'Hotels List';
         title.appendChild(heading);
         this._bodyMainDiv.appendChild(title);
-         this.fetchData();
+        this.fetchData();
     }
 
      fetchData() {
@@ -57,7 +57,7 @@ class getHotelsList {
         data.map(hotelData => {
             const hl = document.createElement('a');
             hl.classList.add('hotels-cards-item');
-            hl.href = "./hotelDetail.html";
+            hl.href = "./hotelDetail.html" + "?q=" + hotelData.id;
 
             const hotelCard = document.createElement('div');
             hotelCard.classList.add('hotel-card');

@@ -4,7 +4,6 @@
     "name": "Hotel Aryavarta",
     "address": "Mall Road, Nainital - 234005",
     "image": "https://badianhotel.com/wp-content/uploads/2020/08/baglioni-hotel-london.jpg",
-    "ratings": 4.2,
     "roomIdsMapping" : {
       "Super Deluxe Room for 2": 1,
       "Shared Room for 3": 2,
@@ -16,11 +15,6 @@
       "2": 6000,
       "3": 8000,
       "4": 9000
-    },
-    "nearbyPlaces": {
-      "Naini Lake": 0.5,
-      "Underground Caves": 2.5,
-      "Naina Devi Temple": 1.0
     }
   },
   {
@@ -28,7 +22,6 @@
     "name": "Hotel Shree Ram",
     "address": "Shimla Mall Road, Shimla - 234010",
     "image": "https://cdn.britannica.com/96/115096-050-5AFDAF5D/Bellagio-Hotel-Casino-Las-Vegas.jpg",
-    "ratings": 4.9,
     "roomIdsMapping": {
       "Deluxe Suite": 5,
       "Super Deluxe Room for 2": 6,
@@ -42,11 +35,6 @@
       "7": 7000,
       "8": 8000,
       "9": 9000
-    },
-    "nearbyPlaces": {
-      "Mall Road Church": 0.9,
-      "UGovernor's Palace": 8.0,
-      "Shree Hanuman Statue": 4.5
     }
   },
   {
@@ -54,7 +42,6 @@
     "name": "Hotel Krishna",
     "address": "24, Karol Bagh, Delhi - 123013",
     "image": "https://m.economictimes.com/thumb/msid-73023854,width-1200,height-900,resizemode-4,imgsize-235513/hotel-agencies.jpg",
-    "ratings": 3.9,
     "roomIdsMapping": {
       "Room for 2": 1,
       "Shared Room for 3": 2,
@@ -66,11 +53,6 @@
       "2": 3000,
       "3": 4000,
       "4": 5000
-    },
-    "nearbyPlaces": {
-      "Gandhi Memorial": 9.5,
-      "India Gate": 8.5,
-      "Lotus Temple": 12.3
     }
   },
   {
@@ -78,7 +60,6 @@
     "name": "Hotel Kailash",
     "address": "Main Road, Gangtok - 321012",
     "image": "https://assets.hyatt.com/content/dam/hyatt/hyattdam/images/2022/04/12/1329/MUMGH-P0765-Inner-Courtyard-Hotel-Exterior-Evening.jpg/MUMGH-P0765-Inner-Courtyard-Hotel-Exterior-Evening.16x9.jpg",
-    "ratings": 2.1,
     "roomIdsMapping": {
       "Room for 2": 1,
       "Room for 3": 2,
@@ -102,7 +83,6 @@
     "name": "Hotel Mansarovar",
     "address": "Ooty Mall Road, Udagamandalam - 234005",
     "image": "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/itemimages/96/95/96959_v6.jpeg",
-    "ratings": 4.9,
     "roomIdsMapping": {
       "Super Deluxe Suite": 1,
       "Room for 2": 2,
@@ -114,11 +94,6 @@
       "2": 2409,
       "3": 3400,
       "4": 4345
-    },
-    "nearbyPlaces": {
-      "Race Course": 6.5,
-      "Ooty lake": 5.9,
-      "Doda Betta": 29.4
     }
   }
 ]
