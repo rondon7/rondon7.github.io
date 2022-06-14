@@ -43,7 +43,3 @@ class getHotelDetail {
 
 const bodyMainDiv = document.getElementById('detail-page-body');
 const hotelDetail = new getHotelDetail(bodyMainDiv);
-
-document.getElementById('go-back').addEventListener('click', () => {
-    history.back();
-});

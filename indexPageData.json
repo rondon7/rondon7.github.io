@@ -3,7 +3,7 @@
     "id": 1,
     "name": "Hotel Aryavarta",
     "address": "Mall Road, Nainital - 234005",
-    "image": "https://badianhotel.com/wp-content/uploads/2020/08/baglioni-hotel-london.jpg",
+    "image": "gs://mmt-assignment-1.appspot.com/primary_image_one.jpeg",
     "roomIdsMapping" : {
       "Super Deluxe Room for 2": 1,
       "Shared Room for 3": 2,
