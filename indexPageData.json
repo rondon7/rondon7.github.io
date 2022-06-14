@@ -3,7 +3,7 @@
     "id": 1,
     "name": "Hotel Aryavarta",
     "address": "Mall Road, Nainital - 234005",
-    "image": "gs://mmt-assignment-1.appspot.com/primary_image_one.jpeg",
+    "image": "https://badianhotel.com/wp-content/uploads/2020/08/baglioni-hotel-london.jpg",
     "roomIdsMapping" : {
       "Super Deluxe Room for 2": 1,
       "Shared Room for 3": 2,
@@ -82,7 +82,7 @@
     "id": 5,
     "name": "Hotel Mansarovar",
     "address": "Ooty Mall Road, Udagamandalam - 234005",
-    "image": "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/itemimages/96/95/96959_v6.jpeg",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mmtsampleproject.appspot.com/o/primary_image_five.jpeg?alt=media&token=d7bcff72-44bc-4f34-9f9f-e6a17b39f27a",
     "roomIdsMapping": {
       "Super Deluxe Suite": 1,
       "Room for 2": 2,
