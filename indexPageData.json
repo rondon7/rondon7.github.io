@@ -3,7 +3,7 @@
     "id": 1,
     "name": "Hotel Aryavarta",
     "address": "Mall Road, Nainital - 234005",
-    "image": "https://badianhotel.com/wp-content/uploads/2020/08/baglioni-hotel-london.jpg",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mmtsampleproject.appspot.com/o/primary_image_one.jpeg?alt=media&token=a9e40cad-f90a-4a1d-b87f-2fbf4a7c7ef2",
     "roomIdsMapping" : {
       "Super Deluxe Room for 2": 1,
       "Shared Room for 3": 2,
@@ -21,7 +21,7 @@
     "id": 2,
     "name": "Hotel Shree Ram",
     "address": "Shimla Mall Road, Shimla - 234010",
-    "image": "https://cdn.britannica.com/96/115096-050-5AFDAF5D/Bellagio-Hotel-Casino-Las-Vegas.jpg",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mmtsampleproject.appspot.com/o/primary_image_two.jpeg?alt=media&token=2c944024-c602-4f2d-bdd1-8ee821f9e873",
     "roomIdsMapping": {
       "Deluxe Suite": 5,
       "Super Deluxe Room for 2": 6,
@@ -41,7 +41,7 @@
     "id": 3,
     "name": "Hotel Krishna",
     "address": "24, Karol Bagh, Delhi - 123013",
-    "image": "https://m.economictimes.com/thumb/msid-73023854,width-1200,height-900,resizemode-4,imgsize-235513/hotel-agencies.jpg",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mmtsampleproject.appspot.com/o/primary_image_three.jpeg?alt=media&token=7e02b9ee-a308-4a5b-8ea4-f1bdcd3f2a49",
     "roomIdsMapping": {
       "Room for 2": 1,
       "Shared Room for 3": 2,
@@ -59,7 +59,7 @@
     "id": 4,
     "name": "Hotel Kailash",
     "address": "Main Road, Gangtok - 321012",
-    "image": "https://assets.hyatt.com/content/dam/hyatt/hyattdam/images/2022/04/12/1329/MUMGH-P0765-Inner-Courtyard-Hotel-Exterior-Evening.jpg/MUMGH-P0765-Inner-Courtyard-Hotel-Exterior-Evening.16x9.jpg",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mmtsampleproject.appspot.com/o/primary_image_four.jpeg?alt=media&token=257b8c7b-290e-42ae-b822-a315b06e9af9",
     "roomIdsMapping": {
       "Room for 2": 1,
       "Room for 3": 2,
